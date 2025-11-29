@@ -1,7 +1,8 @@
 # Discrete Event Simulator
 A Java-based discrete event simulator that models a multi-queue-multi-server system, similar to queuing systems found in fast-food restaurants or service centers.
 
-## 🎯 About The Project This simulator models a queuing system where: - Multiple servers process customers independently - Each server maintains its own queue - Customers arrive, wait, get served, or leave based on system capacity - The simulation tracks performance metrics in real-time 
+## 🎯 About The Project 
+This simulator models a queuing system where: - Multiple servers process customers independently - Each server maintains its own queue - Customers arrive, wait, get served, or leave based on system capacity - The simulation tracks performance metrics in real-time 
 
 ### Event Flow The system processes five types of events: 
 - **ARRIVE**: Customer enters the system 
